@@ -1,4 +1,14 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-012&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asa-012&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+
+<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=asa-012)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-012&
+)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **asa-012/asa-012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
